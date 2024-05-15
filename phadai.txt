@@ -10,3 +10,5 @@ navbar-----------
 hi
 hello
 footer
+let k = 27;
+let a = 1;
